@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sgmcmc"]
+	path = sgmcmc
+	url = https://github.com/stor-i/sgmcmc
+	shallow = true
+	registered = true
